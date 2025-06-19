@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="Base.Theme.CashoutChargeCalculator" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#898AC4</item>
+    </style>
+
+    <style name="Theme.CashoutChargeCalculator" parent="Base.Theme.CashoutChargeCalculator" />
+
+    <style name="Theme.CashoutChargeCalculator.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.CashoutChargeCalculator.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.CashoutChargeCalculator.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
